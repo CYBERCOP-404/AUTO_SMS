@@ -14,7 +14,7 @@ WELCOME TO  CYBERCOP-404
 
 ```
 rm -rf AUTO_SMS
-https://github.com/CYBERCOP-404/AUTO_SMS.git
+git clone https://github.com/CYBERCOP-404/AUTO_SMS.git
 cd AUTO_SMS
 python autosms.py
 ```
