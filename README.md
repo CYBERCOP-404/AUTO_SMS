@@ -12,11 +12,26 @@ WELCOME TO  CYBERCOP-404
 <h2 align="center"><img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="40">COLLAGE_PROJECT COMMAND 🔐 :
 </b></h3>
 
+---
+
 ```
 rm -rf AUTO_SMS
 git clone https://github.com/CYBERCOP-404/AUTO_SMS.git
 cd AUTO_SMS
 python autosms.py
 ```
+
+---
+
+---
+# Auto time sms
+```
+rm -rf AUTO_SMS
+git clone https://github.com/CYBERCOP-404/AUTO_SMS.git
+cd AUTO_SMS
+python ast.py
+```
+---
+
 # ENJOY THE PROGRAM .  
 ![wave](https://user-images.githubusercontent.com/65462564/225171686-93c2fd4b-ced4-4602-85e4-13deacf4af62.svg)
