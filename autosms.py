@@ -1,9 +1,13 @@
 # --------------------------------------[ IMPORT SECTION HERE ]------------------------------------------------------- #
 from time import sleep
 import os
-from pyautogui import write 
 import webbrowser as auto
 from sys import stdout
+try:
+    from pyautogui import write
+except ImportError:
+    os.system("pip install pyautogui")
+    from pyautogui import write 
 # --------------------------------------[ BANNER SECTION HERE ]------------------------------------------------------- #
 banner='''
 \033[0;32m
