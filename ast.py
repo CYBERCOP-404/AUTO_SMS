@@ -55,6 +55,6 @@ for i in range(5, 0, -1):
 i=1
 for i in range(1,count+1):
     write(f'[{i}] {msg} \n ')
-    sleep(2)
+    sleep(0.5)
 auto.open_new_tab(url)
 # Developer :~ MD.NAHIDUL ISLAM
