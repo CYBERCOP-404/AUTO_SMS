@@ -13,6 +13,16 @@ WELCOME TO  CYBERCOP-404
 </b></h3>
 
 ---
+# Auto time sms
+```
+rm -rf AUTO_SMS
+git clone https://github.com/CYBERCOP-404/AUTO_SMS.git
+cd AUTO_SMS
+python ast.py
+```
+---
+
+---
 
 ```
 rm -rf AUTO_SMS
@@ -23,15 +33,6 @@ python autosms.py
 
 ---
 
----
-# Auto time sms
-```
-rm -rf AUTO_SMS
-git clone https://github.com/CYBERCOP-404/AUTO_SMS.git
-cd AUTO_SMS
-python ast.py
-```
----
 
 # ENJOY THE PROGRAM .  
 ![wave](https://user-images.githubusercontent.com/65462564/225171686-93c2fd4b-ced4-4602-85e4-13deacf4af62.svg)
